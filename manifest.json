@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.0",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.0/SnipEX-Aura-1.0.0-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.0/SnipEX-Aura-1.0.0-win-x64-Setup.exe.sha256",
-    "Sha256":  "0b0c991b1f2fc356f56453d6957690bbbf5be2489a33d38655707570b8550703",
-    "ReleaseNotes":  "SnipEX Aura 1.0.0, the fully animated SnipEX client: animated Light, Dark, Hallow\u0027s Eve and Christmas themes, an Elegant/Optimized switch, rounded clickable fill-ins, and expansion that pauses while standard SnipEX is running. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.1",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.1/SnipEX-Aura-1.0.1-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.1/SnipEX-Aura-1.0.1-win-x64-Setup.exe.sha256",
+    "Sha256":  "13f46cdaa840d38480c8cd66c6a828349ce95aab76a808aaa19f084d0372181b",
+    "ReleaseNotes":  "SnipEX Aura 1.0.1 adds automatic updates (checked at launch and once a day, installed quietly with a restart), a Check for updates button in the status bar, paragraph spacing that matches SnipEX, and fixes for cut-off fields in fill-in dialogs. Per-user installation needs no administrator elevation. This release is unsigned."
 }
