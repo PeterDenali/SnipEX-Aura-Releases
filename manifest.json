@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.2",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.2/SnipEX-Aura-1.0.2-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.2/SnipEX-Aura-1.0.2-win-x64-Setup.exe.sha256",
-    "Sha256":  "be05c79c7cbab66ac28687f4094837ff88a16ae24ab6f7621611b09ad1c32df2",
-    "ReleaseNotes":  "SnipEX Aura 1.0.2: NEW and UPDATED ribbons you can click to see who created or updated a snippet and when, a layout sized like SnipEX with a taller snippet body, animations that keep running on a second monitor, the version shown under the logo, and update checks in Preferences \u003e Update. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.3",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.3/SnipEX-Aura-1.0.3-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.3/SnipEX-Aura-1.0.3-win-x64-Setup.exe.sha256",
+    "Sha256":  "5fddc86b9011f01723d5b9d733033da3ac273b270457ca260924578c88082a4d",
+    "ReleaseNotes":  "SnipEX Aura 1.0.3: sign in on the blurred launch screen, a Loading dashboard screen while your library syncs, ribbons that lift on hover and show what changed, a new Christmas icon, and refreshed Christmas and Hallow\u0027s Eve decorations. Per-user installation needs no administrator elevation. This release is unsigned."
 }
