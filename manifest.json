@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.1",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.1/SnipEX-Aura-1.0.1-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.1/SnipEX-Aura-1.0.1-win-x64-Setup.exe.sha256",
-    "Sha256":  "13f46cdaa840d38480c8cd66c6a828349ce95aab76a808aaa19f084d0372181b",
-    "ReleaseNotes":  "SnipEX Aura 1.0.1 adds automatic updates (checked at launch and once a day, installed quietly with a restart), a Check for updates button in the status bar, paragraph spacing that matches SnipEX, and fixes for cut-off fields in fill-in dialogs. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.2",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.2/SnipEX-Aura-1.0.2-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.2/SnipEX-Aura-1.0.2-win-x64-Setup.exe.sha256",
+    "Sha256":  "be05c79c7cbab66ac28687f4094837ff88a16ae24ab6f7621611b09ad1c32df2",
+    "ReleaseNotes":  "SnipEX Aura 1.0.2: NEW and UPDATED ribbons you can click to see who created or updated a snippet and when, a layout sized like SnipEX with a taller snippet body, animations that keep running on a second monitor, the version shown under the logo, and update checks in Preferences \u003e Update. Per-user installation needs no administrator elevation. This release is unsigned."
 }
