@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.4",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.4/SnipEX-Aura-1.0.4-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.4/SnipEX-Aura-1.0.4-win-x64-Setup.exe.sha256",
-    "Sha256":  "0f6cf942fd364c71f830f362a49b6b86a038b874f056244cf0216fc5f96929e8",
-    "ReleaseNotes":  "SnipEX Aura 1.0.4: animations keep playing on PCs where Windows animation effects are turned off (new Preferences \u003e Appearance option, on by default). Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.5",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.5/SnipEX-Aura-1.0.5-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.5/SnipEX-Aura-1.0.5-win-x64-Setup.exe.sha256",
+    "Sha256":  "045d72c2d33bac7fb8d55b3024adf14ba4da429c1bc15da735336e6a2cee3ad5",
+    "ReleaseNotes":  "SnipEX Aura 1.0.5: bats that really flap their wings, animations that pause while another app is focused, fill-in boxes aligned with the text, roomier workspace column, and a fix for a crash when quitting with a fill-in open. Per-user installation needs no administrator elevation. This release is unsigned."
 }
