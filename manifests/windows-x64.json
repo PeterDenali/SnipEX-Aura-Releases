@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.5",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.5/SnipEX-Aura-1.0.5-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.5/SnipEX-Aura-1.0.5-win-x64-Setup.exe.sha256",
-    "Sha256":  "045d72c2d33bac7fb8d55b3024adf14ba4da429c1bc15da735336e6a2cee3ad5",
-    "ReleaseNotes":  "SnipEX Aura 1.0.5: bats that really flap their wings, animations that pause while another app is focused, fill-in boxes aligned with the text, roomier workspace column, and a fix for a crash when quitting with a fill-in open. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.6",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.6/SnipEX-Aura-1.0.6-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.6/SnipEX-Aura-1.0.6-win-x64-Setup.exe.sha256",
+    "Sha256":  "d47038a3c7ba5d814df451353b8eb7324f5e8d9f62e413d71da4b300e8d06915",
+    "ReleaseNotes":  "SnipEX Aura 1.0.6: new Winter Storm theme - a snowy cabin with a crackling campfire and flickering lantern light, wooden snow-capped panels, an optional blizzard ambience with a volume slider, and the sleigh-bell expansion sound. Per-user installation needs no administrator elevation. This release is unsigned."
 }
