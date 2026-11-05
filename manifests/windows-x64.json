@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.6",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.6/SnipEX-Aura-1.0.6-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.6/SnipEX-Aura-1.0.6-win-x64-Setup.exe.sha256",
-    "Sha256":  "d47038a3c7ba5d814df451353b8eb7324f5e8d9f62e413d71da4b300e8d06915",
-    "ReleaseNotes":  "SnipEX Aura 1.0.6: new Winter Storm theme - a snowy cabin with a crackling campfire and flickering lantern light, wooden snow-capped panels, an optional blizzard ambience with a volume slider, and the sleigh-bell expansion sound. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.7",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.7/SnipEX-Aura-1.0.7-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.7/SnipEX-Aura-1.0.7-win-x64-Setup.exe.sha256",
+    "Sha256":  "a9978116f998ccfc9952d0408b9d2723299b4b69fad56d9120dc392ecc903a6e",
+    "ReleaseNotes":  "SnipEX Aura 1.0.7: fixes a freeze some work PCs hit when adding a fill-in (dialogs no longer wait on a window snapshot), adds the Train Dreams theme (misty mountain railway with forest, clouds, fog, birds, its own ambience and music), release notes under the logo, theme music with its own volume, Winter Storm improvements (full-screen scaling, 1.0.6 campfire, Secunda music), lower memory and CPU use. Per-user installation needs no administrator elevation. This release is unsigned."
 }
