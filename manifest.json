@@ -1,7 +1,7 @@
 ﻿{
-    "Version":  "1.0.11",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.11/SnipEX-Aura-1.0.11-win-x64-Setup.exe",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.11/SnipEX-Aura-1.0.11-win-x64-Setup.exe.sha256",
-    "Sha256":  "c85ccde6a3662daba89545a2dea7cda104bdeb9b120b7d4f18cf443f40a0afbd",
-    "ReleaseNotes":  "SnipEX Aura 1.0.11: the installer now replaces the stable SnipEx client and earlier SnipEX Aura builds (user data is kept), smooth snow on PCs where the Windows timer made it choppy, an updater that works through office proxies and explains failures, the WORKSPACE snow ledge on a cold start, and birds/aurora that show up sooner. Per-user installation needs no administrator elevation. This release is unsigned."
+    "Version":  "1.0.12",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.12/SnipEX-Aura-1.0.12-win-x64-Setup.exe",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/v1.0.12/SnipEX-Aura-1.0.12-win-x64-Setup.exe.sha256",
+    "Sha256":  "a60b7b2a3f4fefaac2066327c5783c1f94a81f1e5bd8de61e9ca60cb1c7840a2",
+    "ReleaseNotes":  "Update: Updates show their progress inside SnipEX Aura (download, check, install, restart) instead of in the installer\u0027s window.\nUpdate: Updates install faster: only changed files are written and a slow files-in-use check is gone.\nBug fix: Winter Storm: the selected snippet has the same red and glow as the selected folder.\nBug fix: Resizing or going full screen no longer restarts the aurora, the birds or the clouds."
 }
