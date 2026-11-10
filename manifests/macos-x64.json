@@ -1,0 +1,7 @@
+{
+    "Version":  "1.0.14",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.14/SnipEX-Aura-1.0.14-macos-x64.dmg",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.14/SnipEX-Aura-1.0.14-macos-x64.dmg.sha256",
+    "Sha256":  "c6a1c19b2d452852857c3fb64f6c438afff0ac988e4bf7b89fb62df0ed58e93c",
+    "ReleaseNotes":  "New: SnipEX Aura for macOS (test build) - the same client, themes, scenes and library as on Windows."
+}
