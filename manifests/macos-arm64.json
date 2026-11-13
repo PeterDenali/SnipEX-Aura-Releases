@@ -1,7 +1,7 @@
 {
-    "Version":  "1.0.14",
-    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.14/SnipEX-Aura-1.0.14-macos-arm64.dmg",
-    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.14/SnipEX-Aura-1.0.14-macos-arm64.dmg.sha256",
-    "Sha256":  "92ab341912daf8a504e21d16e82503c60f0da43ae75a25669d873b1791655d48",
-    "ReleaseNotes":  "New: SnipEX Aura for macOS (test build) - the same client, themes, scenes and library as on Windows."
+    "Version":  "1.0.15",
+    "DownloadUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.15/SnipEX-Aura-1.0.15-macos-arm64.dmg",
+    "ChecksumUrl":  "https://github.com/PeterDenali/SnipEX-Aura-Releases/releases/download/macos-test-1.0.15/SnipEX-Aura-1.0.15-macos-arm64.dmg.sha256",
+    "Sha256":  "260c0e8c46aa55eb5212a87f7f769b2689ae00283104a007ad9f16e649c91d92",
+    "ReleaseNotes":  "Fixed: SnipEX Aura for macOS closed right after opening. Sign-in is now kept in the macOS Keychain."
 }
